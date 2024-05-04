@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m @TimurBimBam
+👀 I’m interested in С++
+🌱 I’m currently learning С++
+💞 I’m looking to collaborate on Google
+📫 How to reach me secret:)
+😄 Pronouns: ...
+⚡️ Fun fact: C++ is trash
