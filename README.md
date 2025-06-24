@@ -17,7 +17,3 @@ Here are some ideas to get you started:
 👋 Hi, I’m @TimurBimBam
 👀 I’m interested in Python
 🌱 I’m currently learning Python
-💞 I’m looking to collaborate on Google
-📫 How to reach me secret:)
-😄 Pronouns: ...
-⚡️ Fun fact: fun
